@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "Miquel Inc.",
+    "longName": "Julien Miquel ",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "JMWatch ",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "b3b772ed-38f7-4855-b43e-e9dc08ad0dc2",
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
